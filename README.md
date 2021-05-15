@@ -4,21 +4,18 @@ Mi nombre es 0x14, un usuario intermedio en la Programación, la plataforma que 
 
 <br />
 
-## 📦・Contáctame
+## ![Contact](https://img.shields.io/badge/-Contáctame-000?style=for-the-badge&labelColor=black&logo=github&logoColor=61DBF)
 
    - <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="32" align="center">  [`Correo electrónico`](mailto:0x14sec@gmail.com)
    - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center">  [`Server de NationSquad`](https://discord.gg/vFwbwTd8gk)
 
 <br />
 
-## 📫・Stats
+## ![Stats](https://img.shields.io/badge/-Stats-000?style=for-the-badge&labelColor=black&logo=github&logoColor=61DBF)
 
 <table>
   <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=0x14ces&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&theme=react&hide_border=true&hide_title=true&count_private=true" />
-    </td>
-     <td align="center" style="padding=0;width=50%;">
+     <td align="center" style="padding=0;">
         <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x14ces&layout=compact&theme=onedark&langs_count=4">
      </td>
   </tr>
@@ -26,7 +23,7 @@ Mi nombre es 0x14, un usuario intermedio en la Programación, la plataforma que 
 
 <br />
 
-## ✨・Discord
+## ![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&labelColor=black&logo=discord&logoColor=61DBF)
 
 <table>
    <tr>
@@ -38,25 +35,27 @@ Mi nombre es 0x14, un usuario intermedio en la Programación, la plataforma que 
 
 <br />
 
-## 🙌・Lo que manejo
+## ![Manejo](https://img.shields.io/badge/-Lo%20que%20manejo-000?style=for-the-badge&labelColor=black&logo=c&logoColor=61DBF)
 
-![VSCodium](https://img.shields.io/static/v1?label=VSCodium&message=Mi%20IDE%20📄&style=for-the-badge&color=1e88e5&logo=visual-studio-code)
+![VSCodium](https://img.shields.io/badge/-VSCodium-2769c4?style=for-the-badge&labelColor=black&logo=visual-studio&logoColor=61DBF)
 <br/>
-![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=Mongo%20DB%20🍃&style=for-the-badge&color=3FA037&logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-27c446?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=61DBF)
 <br/>
-![Sqlite](https://img.shields.io/static/v1?label=Sqlite&message=Sqlite%20%F0%9F%8C%BF&style=for-the-badge&color=999&logo=sqlite)
+![Sqlite](https://img.shields.io/badge/-Sqlite-747574?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=61DBF)
 <br/>
-![MYSQL](https://img.shields.io/static/v1?label=MySql&message=MySQL%20%F0%9F%90%AC&style=for-the-badge&color=2965f1&logo=mysql)
+![MYSQL](https://img.shields.io/badge/-MySql-2c9494?style=for-the-badge&labelColor=black&logo=mysql&logoColor=61DBF)
 <br/>
-![Node](https://img.shields.io/static/v1?label=Nodejs&message=Node.JS%20%F0%9F%9F%A2&color=68a063&style=for-the-badge&logo=Node.js)
+![Node](https://img.shields.io/badge/-Node.JS-22733b?style=for-the-badge&labelColor=black&logo=node.js&logoColor=61DBF)
 <br/>
-![Python](https://img.shields.io/static/v1?label=Python&message=Python%20%F0%9F%90%8D&color=ded71d&style=for-the-badge&logo=Python)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBF)
 <br/>
-![HTML5](https://img.shields.io/static/v1?label=HTML&message=HTML5%20%F0%9F%8D%AF&color=e67a15&style=for-the-badge&logo=HTML5)
+![Python](https://img.shields.io/badge/-Python-245f7d?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBF)
 <br/>
-![CSS3](https://img.shields.io/static/v1?label=CSS&message=CSS3%20%F0%9F%8E%A8&style=for-the-badge&color=2965f1&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-cc770e?style=for-the-badge&labelColor=black&logo=html5&logoColor=61DBF)
 <br/>
-![JAVASCRIPT](https://img.shields.io/static/v1?label=Javascript&message=Javascript%20%F0%9F%8E%81&color=ffff00&style=for-the-badge&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=61DBF)
+<br/>
+![JAVASCRIPT](https://img.shields.io/badge/-Javascript-ffff00?style=for-the-badge&labelColor=black&logo=javascript&logoColor=61DBF)
 
 <br />
 
@@ -73,3 +72,25 @@ Mi nombre es 0x14, un usuario intermedio en la Programación, la plataforma que 
   </a>
    </p>
 </p>
+
+<summary>
+Más cosas
+</summary>
+
+<br />
+
+## ![GStats](https://img.shields.io/badge/-Github%20Stats-000?style=for-the-badge&labelColor=black&logo=github&logoColor=61DBF)
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=0x14ces&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&theme=react&hide_border=true&hide_title=true&count_private=true" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## ![Social](https://img.shields.io/badge/-Social-000?style=for-the-badge&labelColor=black&logo=youtube&logoColor=61DBF)
+
+[![Twitter Badge](https://img.shields.io/badge/-@_0x14_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_0x14)](https://twitter.com/_0x14) [![Youtube Badge](https://img.shields.io/badge/-0x14-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Telegram Badge](https://img.shields.io/badge/-@ces0x14-27A7E5?style=flat&labelColor=27A7E5&logo=telegram&logoColor=white)](https://t.me/ces0x14) [![Mail Badge](https://img.shields.io/badge/-@0x14ces-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/0x14ces) [![Mail Badge](https://img.shields.io/badge/-0x14sec-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:0x14sec@gmail.com) [![Glitch Badge](https://img.shields.io/badge/-0x14-FF7698?style=flat&labelColor=FF7698&logo=glitch&logoColor=white)](https://glitch.com/@0x14) ![Discord Badge](https://img.shields.io/badge/-0x14%236898-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)
