@@ -41,13 +41,13 @@ Mi nombre es 0x14, un usuario intermedio en la Programación, la plataforma que 
 <br/>
 [![MongoDB](https://img.shields.io/badge/-MongoDB-27c446?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=61DBF)](https://www.mongodb.com)
 <br/>
-[![Sqlite](https://img.shields.io/badge/-Sqlite-747574?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=61DBF)](https://www.sqlite.org/index.html)
+[![Sqlite](https://img.shields.io/badge/-Sqlite-747574?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=61DBF)](https://www.sqlite.org/)
 <br/>
 [![MYSQL](https://img.shields.io/badge/-MySql-2c9494?style=for-the-badge&labelColor=black&logo=mysql&logoColor=61DBF)](https://www.mysql.com/)
 <br/>
-[![Node](https://img.shields.io/badge/-Node.JS-22733b?style=for-the-badge&labelColor=black&logo=node.js&logoColor=61DBF)](https://nodejs.org/es/)
+[![Node](https://img.shields.io/badge/-Node.JS-22733b?style=for-the-badge&labelColor=black&logo=node.js&logoColor=61DBF)](https://nodejs.org/)
 <br/>
-[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBF)](https://es.reactjs.org/)
+[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBF)](https://reactjs.org/)
 <br/>
 [![Python](https://img.shields.io/badge/-Python-245f7d?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBF)](https://www.python.org/)
 <br/>
