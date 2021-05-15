@@ -1,4 +1,4 @@
-# ¡Hola! 👋
+# ¡Hola! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 Mi nombre es 0x14, un usuario intermedio en la Programación, la plataforma que uso generalmente para comunicarme es **`Discord`** aunque tambien tengo **`Telegram`**.
 
