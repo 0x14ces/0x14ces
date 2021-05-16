@@ -37,7 +37,7 @@ Mi nombre es 0x14, un usuario intermedio en la Programación, la plataforma que 
 
 ## ![Manejo](https://img.shields.io/badge/-Lo%20que%20manejo-000?style=for-the-badge&labelColor=black&logo=c&logoColor=61DBF)
 
-<table>
+<table bordercolor="transparent">
    <tr>
       <td style="padding=0;width=50%;">
       <a href="https://vscodium.com/"><img src="https://img.shields.io/badge/-VSCodium-2769c4?style=for-the-badge&labelColor=black&logo=visual-studio&logoColor=61DBF"></a>
@@ -105,8 +105,3 @@ Más cosas
 [![Twitter Badge](https://img.shields.io/badge/-@_0x14_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_0x14)](https://twitter.com/_0x14) [![Youtube Badge](https://img.shields.io/badge/-0x14-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Telegram Badge](https://img.shields.io/badge/-@ces0x14-27A7E5?style=flat&labelColor=27A7E5&logo=telegram&logoColor=white)](https://t.me/ces0x14) [![Mail Badge](https://img.shields.io/badge/-@0x14ces-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/0x14ces) [![Mail Badge](https://img.shields.io/badge/-0x14sec-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:0x14sec@gmail.com) [![Glitch Badge](https://img.shields.io/badge/-0x14-FF7698?style=flat&labelColor=FF7698&logo=glitch&logoColor=white)](https://glitch.com/@0x14) ![Discord Badge](https://img.shields.io/badge/-0x14%236898-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)
 
 </details>
-<style>
-   td{
-   background-color:transparent;
-   }
-</style>
