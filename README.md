@@ -60,6 +60,7 @@ Mi nombre es 0x14, un usuario intermedio en la Programación, la plataforma que 
       <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/-Sqlite-747574?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=61DBF"></a>
       <br />
       <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySql-2c9494?style=for-the-badge&labelColor=black&logo=mysql&logoColor=61DBF"></a>
+      <br /><br /><br /><br /><br /><br />
       </td>
    </tr>
 </table>
