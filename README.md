@@ -107,6 +107,6 @@ Más cosas
 </details>
 <style>
    td{
-   color:transparent;
+   background-color:transparent;
    }
 </style>
