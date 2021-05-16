@@ -37,17 +37,20 @@ Mi nombre es 0x14, un usuario intermedio en la Programación, la plataforma que 
 
 ## ![Manejo](https://img.shields.io/badge/-Lo%20que%20manejo-000?style=for-the-badge&labelColor=black&logo=c&logoColor=61DBF)
 
-[![VSCodium](https://img.shields.io/badge/-VSCodium-2769c4?style=for-the-badge&labelColor=black&logo=visual-studio&logoColor=61DBF)](https://vscodium.com/)
+<table>
+   <tr>
+      <td align="center" style="padding=0;">
+         [![VSCodium](https://img.shields.io/badge/-VSCodium-2769c4?style=for-the-badge&labelColor=black&logo=visual-studio&logoColor=61DBF)](https://vscodium.com/)
 <br/>
 [![MongoDB](https://img.shields.io/badge/-MongoDB-27c446?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=61DBF)](https://www.mongodb.com)
 <br/>
-[![Sqlite](https://img.shields.io/badge/-Sqlite-747574?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=61DBF)](https://www.sqlite.org/)
+[![Sqlite](https://img.shields.io/badge/-Sqlite-747574?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=61DBF)](https://www.sqlite.org/index.html)
 <br/>
 [![MYSQL](https://img.shields.io/badge/-MySql-2c9494?style=for-the-badge&labelColor=black&logo=mysql&logoColor=61DBF)](https://www.mysql.com/)
 <br/>
-[![Node](https://img.shields.io/badge/-Node.JS-22733b?style=for-the-badge&labelColor=black&logo=node.js&logoColor=61DBF)](https://nodejs.org/)
+[![Node](https://img.shields.io/badge/-Node.JS-22733b?style=for-the-badge&labelColor=black&logo=node.js&logoColor=61DBF)](https://nodejs.org/es/)
 <br/>
-[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBF)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBF)](https://es.reactjs.org/)
 <br/>
 [![Python](https://img.shields.io/badge/-Python-245f7d?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBF)](https://www.python.org/)
 <br/>
@@ -56,6 +59,9 @@ Mi nombre es 0x14, un usuario intermedio en la Programación, la plataforma que 
 [![CSS3](https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=61DBF)](http://css3.com/)
 <br/>
 [![JAVASCRIPT](https://img.shields.io/badge/-Javascript-ffff00?style=for-the-badge&labelColor=black&logo=javascript&logoColor=61DBF)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+      </td>
+   </tr>
+</table>
 
 <br />
 
