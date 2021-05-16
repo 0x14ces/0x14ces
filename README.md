@@ -53,6 +53,7 @@ Mi nombre es 0x14, un usuario intermedio en la Programación, la plataforma que 
       <a href="http://css3.com/"><img src="https://img.shields.io/badge/-CSS3-2965f1?style=for-the-badge&labelColor=black&logo=css3&logoColor=61DBF"></a>
       <br />
       <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-Javascript-ffff00?style=for-the-badge&labelColor=black&logo=javascript&logoColor=61DBF"></a>
+      <br />
       </td>
       <td style="padding=0;width=50%;pading-bottom=10px;">
       <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-MongoDB-27c446?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=61DBF"></a>
